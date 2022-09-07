@@ -1,1 +1,1 @@
-www.patika.dev Kodluyoruz-Frontend HTML ödev1
+www.patika.dev Kodluyoruz-Frontend HTML ödevleri
